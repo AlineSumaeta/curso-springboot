@@ -1,6 +1,5 @@
 package com.example.curso.entities;
 
-import java.awt.event.ItemEvent;
 import java.io.Serializable;
 import java.time.Instant;
 import java.util.HashSet;

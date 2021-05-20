@@ -1,4 +1,4 @@
-package com.example.curso.entities.resources;
+package com.example.curso.resources;
 
 import java.net.URI;
 import java.util.List;
